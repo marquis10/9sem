@@ -1,0 +1,15 @@
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\bin\Debug\net6.0\69z.exe
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\bin\Debug\net6.0\69z.deps.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\bin\Debug\net6.0\69z.runtimeconfig.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\bin\Debug\net6.0\69z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\bin\Debug\net6.0\69z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.csproj.AssemblyReference.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.AssemblyInfoInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.AssemblyInfo.cs
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.csproj.CoreCompileInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\refint\69z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\69z.genruntimeconfig.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\9sem\69z\obj\Debug\net6.0\ref\69z.dll
